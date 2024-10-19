@@ -1,14 +1,19 @@
 export const userDetails = {
-  expirationDate: "q+YVNwdR8CXCPIsGNoDLOEpey2ILB0DsbI2W8ZE3mxmFZFOTucM=",
-  orgName: "frbDuWoYlo6bA4sWk6suUQNSGigK/xocuLTDj7rSBKpCxhZMseGqBp7f43GGpDsmNolcymWF",
-  ownerName: "d8QpWdlwLTdn/xXmDym/wIxXgtyFe/7S3mmnzvbCYL8FhUdzWQ==",
-  dogName: "qQ4Q+9Y4n7XcQC1VD6xzLPcoYLTiqPc7Fx4PUsmHmVHOpH0=",
-  dogBreed: "JEPb+Fm/kQfCG7RuaxKMpylT1rnBEjbs1QOjpkqW3P/IoKiN7G7/VJNHtyhRnlMlgrEJE70KmGj+AA==",
-  dogMicrochip: "K7U0fZ+3iyHL2pop98CUj+XFzKiXLs5LxjQadaOqbqrTTLaMbr/IpAFclQ==",
-  dogService: "R18D0Rj3m1W6iRz0/oxuuBtY78AsH4Gq4s3Fidn2kapRPHxTT5CVEnDPU+sOYUop4sVUhrEOYnc=",
-  testDate: "AHVqJZtV5/z6eMzyYKKuuCRY+68yqb8S1I5zhOmDEkwu+okOvJ0=",
-  registrationNum: "oYcYI1fof2x1aS4U7jWRn9hfqL2TNPryRgPCEFdbbbYOygl+c6o=",
-  handlerAddress: "MwwrGbgkLToL2WYMvLgzPZE2PmE7kTjhKmw607712JXFrluMpjttwjdDhZ02mMpqNPwIgaUCI+v8+jZ1FvSF3ls=",
-  handlerPhone: "y9LM1MjluT1QGRWx1dnkCZsf/m2/oE/laOItEqLL+dtIATjPoMQ6Lw==",
-  orgLogo: "OMnIYvOC1mEe4cQCBy3JFfuRnIRE1rG4ZP6GVrs2qwmKqZqxg/dsOpldHOiuHtcWQvkfSCSag50Vv5wmtH5VOe4="
-}
+  expirationDate: 'IEVsAqxj6vhnbGRs+6ouGmL4T3XWWzo55h2h31ig2Xe5gFOTVZA=',
+  orgName:
+    '4IqEZ+HuNLSTELZnJuux30Cuoab1az81J2eakzOMSme/gZCX0RqpUiucxvr4fPwlfLpPY4Sz',
+  ownerName: 'uLRzP8waws5gHB6BMsG2dXUbX1HVm1Jx6lD0gyMBQgLYcsAVZQ==',
+  dogName: '41MXfL6ok50XMZc4hr0Y05qkj2Bntj4xhD53iKWmzjJrDmE=',
+  dogBreed:
+    'Y09+/9KCX3C3iTUnw8e2Mt0nOn3e3DZCCgOaydxNJuu5o03bk+zVxT66LoZ3I00hxv3gb1oI',
+  dogMicrochip: '0D979a4noPmKwrAxgRb0WffgP/EOlFuGs+m6WJ6YA5xl2cRpuzkzMhyGNw==',
+  dogService:
+    'GVRVuF5jIgVWvMTgQF80dqS37SsVNu0/fq5jFG+Zc8yCg1TR5QxAfdVc2UtGPmaojN7JRw==',
+  testDate: 'nFrhUm5ULE+Vz85fSDqCScpCAHkeevdxxWUOUVH3YuZWIxKLEW8=',
+  registrationNum: 'aWVpYePjsB+o6uhsup4vita8ZQckpqryCKpkUiPzFlZ9B6tzeSQ=',
+  handlerAddress:
+    '52fbOPaURdxxKqFIGbDz3IOR+pGQ537w4GVLNKk69vbQq+A3kM2Dm2wQpg5Z2boJ63FwXr676EtIo38ECSvDe8w=',
+  handlerPhone: '9z3H0F30YBPtYpaCMzLdTkaB6ZfVNkz/1iHBn5XFw8YQxlIyN0yI/g==',
+  orgLogo:
+    'KELTY4lNqRMQ7ZYCSdqP6g8OX+upuOdjTctZQDIxoJaMGe613u+zuwTnQ6Livjn9CxaepkD7YQWLT1eJ955IIWs=',
+};
