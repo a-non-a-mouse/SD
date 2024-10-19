@@ -1,0 +1,16 @@
+{
+  "country": "Finland",
+  "locale": "fi-FI",
+  "lisenssi": "Public Access License",
+  "handler_name": "Käsittelijän nimi",
+  "koiran_nimi": "Palvelukoiran nimi",
+  "sertifioitu": "Sertifioitu tiimi",
+  "expiration": "Expiration",
+  "dog_breed": "Koiran rotu ja väri",
+  "dog_microchip": "Koiran mikrosiru",
+  "dog_service": "Koirapalvelu tarjotaan",
+  "test_date": "Julkisen pääsyn testauspäivämäärä",
+  "registration_num": "Rekisteröintinumero",
+  "handler_address": "Käsittelijän osoite",
+  "handler_phone": "Käsittelijän puhelinnumero"
+}

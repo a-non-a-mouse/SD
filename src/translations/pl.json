@@ -1,0 +1,16 @@
+{
+  "country": "Poland",
+  "locale": "pl-PL",
+  "license": "Licencja dostępu publicznego",
+  "handler_name": "Imię i nazwisko opiekuna",
+  "dog_name": "Imię psa służbowego",
+  "certyfikowany": "Certyfikowany zespół",
+  "expiration": "Wygaśnięcie",
+  "dog_breed": "Rasa i kolor psa",
+  "dog_microchip": "Mikroczip psa",
+  "dog_service": "Usługa świadczona dla psa",
+  "test_date": "Data testu dostępu publicznego",
+  "registration_num": "Numer rejestracyjny",
+  "handler_address": "Adres opiekuna",
+  "handler_phone": "Numer telefonu opiekuna"
+}

@@ -1,0 +1,16 @@
+{
+  "country": "Switzerland",
+  "locale": "de-CH",
+  "license": "Lizenz für öffentlichen Zugang",
+  "handler_name": "Name des Hundeführers",
+  "dog_name": "Name des Diensthundes",
+  "certified": "Zertifiziertes Team",
+  "expiration": "Ablauf",
+  "dog_breed": "Hunderasse & -farbe",
+  "dog_microchip": "Hunde-Mikrochip",
+  "dog_service": "Dienstleistung für Hunde erbracht",
+  "test_date": "Datum des öffentlichen Zugangstests",
+  "registration_num": "Registrierungsnummer",
+  "handler_address": "Adresse des Hundeführers",
+  "handler_phone": "Telefonnummer des Hundeführers"
+}

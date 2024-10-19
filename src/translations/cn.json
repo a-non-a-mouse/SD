@@ -1,0 +1,16 @@
+{
+  "country": "China",
+  "locale": "zh",
+  "license": "公共访问许可证",
+  "handler_name": "处理人员姓名",
+  "dog_name": "服务犬名称",
+  "certified": "认证团队",
+  "expiration": "到期",
+  "dog_breed": "犬种与颜色",
+  "dog_microchip": "犬微芯片",
+  "dog_service": "提供的犬服务",
+  "test_date": "公共访问测试日期",
+  "registration_num": "注册号",
+  "handler_address": "处理人员地址",
+  "handler_phone": "处理人员电话号码"
+}

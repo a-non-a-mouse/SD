@@ -1,0 +1,16 @@
+{
+  "country": "Slovakia",
+  "locale": "sk-SK",
+  "licence": "Licencia na verejný prístup",
+  "handler_name": "Meno handlera",
+  "dog_name": "Meno služobného psa",
+  "certified": "Certifikovaný tím",
+  "expiration": "Expiration",
+  "dog_breed": "Pes a farba",
+  "dog_microchip": "Mikročip psa",
+  "dog_service": "Poskytovaná služba pre psov",
+  "test_date": "Dátum testovania verejného prístupu",
+  "registration_num": "Registračné číslo",
+  "handler_address": "Adresa obsluhy",
+  "handler_phone": "Telefónne číslo obsluhy"
+}

@@ -1,0 +1,17 @@
+{
+  "country": "United States",
+  "locale": "en-US",
+  "url": "https://www.ada.gov/resources/service-animals-2010-requirements/",
+  "license": "Public Access License",
+  "handler_name": "Handler's Name",
+  "dog_name": "Service Dog Name",
+  "certified": "Certified Team",
+  "expiration": "Expiration",
+  "dog_breed": "Dog Breed & Color",
+  "dog_microchip": "Dog Microchip",
+  "dog_service": "Dog Service Provided",
+  "test_date": "Public Access Test Date",
+  "registration_num": "Registration Number",
+  "handler_address": "Handler Address",
+  "handler_phone": "Handler Phone Number"
+}

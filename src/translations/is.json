@@ -1,0 +1,16 @@
+{
+  "country": "Iceland",
+  "locale": "is-IS",
+  "license": "Almenningsaðgangsleyfi",
+  "handler_name": "Nafn handhafa",
+  "dog_name": "Nafn þjónustuhunds",
+  "certified": "Certified Team",
+  "expiration": "Rennur út",
+  "dog_breed": "Hundategund og litur",
+  "dog_microchip": "Hunda örflöga",
+  "dog_service": "Hundaþjónusta veitt",
+  "test_date": "Prufudagur fyrir almennan aðgang",
+  "registration_num": "Skráningarnúmer",
+  "handler_address": "Heimilisfang handhafa",
+  "handler_phone": "Símanúmer afgreiðslumanns"
+}

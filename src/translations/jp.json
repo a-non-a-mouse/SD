@@ -1,0 +1,16 @@
+{
+  "country": "Japan",
+  "locale": "ja-JP",
+  "license": "パブリック アクセス ライセンス",
+  "handler_name": "ハンドラーの名前",
+  "dog_name": "サービス ドッグの名前",
+  "certified": "認定チーム",
+  "expiration": "有効期限",
+  "dog_breed": "犬の種類と色",
+  "dog_microchip": "犬用マイクロチップ",
+  "dog_service": "提供される犬サービス",
+  "test_date": "パブリック アクセス テストの日付",
+  "registration_num": "登録番号",
+  "handler_address": "ハンドラーの住所",
+  "handler_phone": "ハンドラーの電話番号"
+}

@@ -1,0 +1,16 @@
+{
+  "country": "Estonia",
+  "locale": "et-EE",
+  "litsents": "Avaliku juurdepääsu litsents",
+  "handler_name": "Käitleja nimi",
+  "koera_nimi": "Teeninduskoera nimi",
+  "sertifitseeritud": "Sertifitseeritud meeskond",
+  "expiration": "Aegumine",
+  "dog_breed": "Koera tõug ja värv",
+  "dog_microchip": "Koera mikrokiip",
+  "dog_service": "Pakutakse koerateenust",
+  "test_date": "Avaliku juurdepääsu testimise kuupäev",
+  "registration_num": "Registreerimisnumber",
+  "handler_address": "Käitleja aadress",
+  "handler_phone": "Hooldaja telefoninumber"
+}

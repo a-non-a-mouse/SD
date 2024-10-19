@@ -1,0 +1,16 @@
+{
+  "country": "Hungary",
+  "locale": "hu-HU",
+  "licenc": "Nyilvános hozzáférési engedély",
+  "handler_name": "Kezelő neve",
+  "dog_name": "Szolgáltató kutya neve",
+  "tanúsított": "Minősített csapat",
+  "expiration": "Lejárat",
+  "dog_breed": "Kutyafajta és szín",
+  "dog_microchip": "Kutya mikrochip",
+  "dog_service": "Kutyaszolgáltatás biztosított",
+  "test_date": "Nyilvános hozzáférés tesztelési dátuma",
+  "registration_num": "Regisztrációs szám",
+  "handler_address": "Kezelő címe",
+  "handler_phone": "Kezelő telefonszáma"
+}

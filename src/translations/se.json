@@ -1,0 +1,16 @@
+{
+  "country": "Sweden",
+  "locale": "sv-SE",
+  "license": "Public Access License",
+  "handler_name": "Handarens namn",
+  "dog_name": "Servicehundens namn",
+  "certified": "Certifierat team",
+  "expiration": "Utgångsdatum",
+  "dog_breed": "Hundras och färg",
+  "dog_microchip": "Hund Microchip",
+  "dog_service": "Hundservice tillhandahålls",
+  "test_date": "Testdatum för offentlig tillgång",
+  "registration_num": "Registration Number",
+  "handler_address": "Hanterarens adress",
+  "handler_phone": "Hantarens telefonnummer"
+}

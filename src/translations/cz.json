@@ -1,0 +1,16 @@
+{
+  "country": "Czechia",
+  "locale": "cs-CZ",
+  "licence": "Licence pro veřejný přístup",
+  "handler_name": "Jméno manipulátora",
+  "dog_name": "Jméno servisního psa",
+  "certified": "Certifikovaný tým",
+  "expiration": "vypršení platnosti",
+  "dog_breed": "Psí plemeno a barva",
+  "dog_microchip": "Psí mikročip",
+  "dog_service": "Psí služba poskytována",
+  "test_date": "Datum testování veřejného přístupu",
+  "registration_num": "Registrační číslo",
+  "handler_address": "Adresa obsluhy",
+  "handler_phone": "Telefonní číslo obsluhy"
+}

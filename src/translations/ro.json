@@ -1,0 +1,16 @@
+{
+  "country": "Romania",
+  "locale": "ro-RO",
+  "license": "Licență de acces public",
+  "handler_name": "Numele manipulatorului",
+  "dog_name": "Numele câinelui de serviciu",
+  "certified": "Echipă certificată",
+  "expiration": "Expirare",
+  "dog_breed": "Rasa și culoarea câinelui",
+  "dog_microchip": "Microcip pentru câini",
+  "dog_service": "Serviciul pentru câini oferit",
+  "test_date": "Data testării accesului public",
+  "registration_num": "Număr de înregistrare",
+  "handler_address": "Adresa operatorului",
+  "handler_phone": "Numărul de telefon al operatorului"
+}

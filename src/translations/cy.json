@@ -1,0 +1,16 @@
+{
+  "country": "Cyprus",
+  "locale": "el-CY",
+  "άδεια": "Άδεια δημόσιας πρόσβασης",
+  "handler_name": "Όνομα χειριστή",
+  "dog_name": "Service Dog Name",
+  "certified": "Certified Team",
+  "λήξη": "Λήξη",
+  "dog_breed": "Dog Breed & Color",
+  "dog_microchip": "Μικροτσίπ σκύλου",
+  "dog_service": "Παρέχεται υπηρεσία για σκύλους",
+  "test_date": "Ημερομηνία δοκιμής δημόσιας πρόσβασης",
+  "registration_num": "Αριθμός εγγραφής",
+  "handler_address": "Διεύθυνση χειριστή",
+  "handler_phone": "Αριθμός τηλεφώνου χειριστή"
+}

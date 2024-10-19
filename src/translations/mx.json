@@ -1,0 +1,16 @@
+{
+  "country": "Mexico",
+  "locale": "es-MX",
+  "license": "Licencia de acceso público",
+  "handler_name": "Nombre del adiestrador",
+  "dog_name": "Nombre del perro de servicio",
+  "certified": "Equipo certificado",
+  "expiration": "Vencimiento",
+  "dog_breed": "Raza y color del perro",
+  "dog_microchip": "Microchip del perro",
+  "dog_service": "Servicio para perros proporcionado",
+  "test_date": "Fecha de la prueba de acceso público",
+  "registration_num": "Número de registro",
+  "handler_address": "Dirección del adiestrador",
+  "handler_phone": "Número de teléfono del adiestrador"
+}

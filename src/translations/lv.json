@@ -1,0 +1,16 @@
+{
+  "country": "Latvia",
+  "locale": "lv-LV",
+  "licence": "publiskās piekļuves licence",
+  "handler_name": "Apdarinātāja vārds",
+  "suņa_nosaukums": "Pakalpojuma suņa vārds",
+  "sertificēta": "Sertificēta komanda",
+  "expiration": "Derīguma termiņš",
+  "dog_breed": "Suņu šķirne un krāsa",
+  "dog_microchip": "Suņa mikroshēma",
+  "dog_service": "Nodrošināts suņu pakalpojums",
+  "test_date": "Publiskās piekļuves pārbaudes datums",
+  "registration_num": "Reģistrācijas numurs",
+  "handler_address": "Apdarinātāja adrese",
+  "handler_phone": "Apdarinātāja tālruņa numurs"
+}

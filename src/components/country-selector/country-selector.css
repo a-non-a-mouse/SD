@@ -1,0 +1,19 @@
+#country-selector {
+  position: fixed;
+  top: 100px;
+  left: 20px;
+  bottom: 100px;
+  overflow: auto;
+  background: #fff;
+  border: 2px solid #000;
+  border-radius: 10px;
+}
+
+#country-selector div {
+  padding: 10px;
+  cursor: pointer;
+}
+
+#country-selector div:nth-child(2n) {
+  background-color: #eee;
+}

@@ -1,0 +1,16 @@
+{
+  "country": "Austria",
+  "locale": "de-AT",
+  "license": "Lizenz für öffentlichen Zugriff",
+  "handler_name": "Name des Hundeführers",
+  "dog_name": "Name des Servicehundes",
+  "certified": "Zertifiziertes Team",
+  "expiration": "Ablaufdatum",
+  "dog_breed": "Hunderasse & -farbe",
+  "dog_microchip": "Hunde-Mikrochip",
+  "dog_service": "Erbrachter Hundeservice",
+  "test_date": "Datum des öffentlichen Zugriffstests",
+  "registration_num": "Registrierungsnummer",
+  "handler_address": "Adresse des Hundeführers",
+  "handler_phone": "Telefonnummer des Hundeführers"
+}

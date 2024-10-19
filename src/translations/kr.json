@@ -1,0 +1,16 @@
+{
+  "country": "South Korea",
+  "locale": "ko-KR",
+  "license": "공개 액세스 라이선스",
+  "handler_name": "핸들러 이름",
+  "dog_name": "서비스견 이름",
+  "certified": "인증 팀",
+  "expiration": "만료",
+  "dog_breed": "개 품종 및 색상",
+  "dog_microchip": "개 마이크로칩",
+  "dog_service": "제공된 개 서비스",
+  "test_date": "공개 액세스 테스트 날짜",
+  "registration_num": "등록 번호",
+  "handler_address": "핸들러 주소",
+  "handler_phone": "핸들러 전화번호"
+}

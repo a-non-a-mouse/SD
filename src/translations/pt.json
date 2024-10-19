@@ -1,0 +1,16 @@
+{
+  "country": "Portugal",
+  "locale": "pt-PT",
+  "licença": "Licença de acesso público",
+  "handler_name": "Nome do manipulador",
+  "dog_name": "Nome do cão de assistência",
+  "certificado": "Equipa Certificada",
+  "expiração": "Expiração",
+  "dog_breed": "Raça e cor do cão",
+  "dog_microchip": "Microchip para cão",
+  "dog_service": "Serviço para cães fornecido",
+  "test_date": "Data do teste de acesso público",
+  "registration_num": "Número de registo",
+  "handler_address": "Endereço do manipulador",
+  "handler_phone": "Número de telefone do manipulador"
+}

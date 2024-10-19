@@ -1,0 +1,14 @@
+:root {
+  --unit: 1vw;
+}
+
+#radial-gradient {
+  background: radial-gradient(circle,
+      rgba(219, 24, 36, 1) 0%,
+      rgba(43, 146, 233, 1) 70%);
+  position: absolute;
+  width: calc(30 * var(--unit));
+  height: calc(30 * var(--unit));
+  top: -10%;
+  left: -10%;
+}

@@ -1,0 +1,10 @@
+#header {
+  height: calc(22 * var(--unit));
+}
+
+#logo {
+  position: absolute;
+  width: 90%;
+  left: 5%;
+  top: 1%;
+}

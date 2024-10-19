@@ -1,0 +1,16 @@
+{
+  "country": "Albania",
+  "locale": "sq-AL",
+  "licencë": "Licenca e aksesit publik",
+  "handler_name": "Emri i mbajtësit",
+  "dog_name": "Emri i qenit të shërbimit",
+  "certifikuar": "Ekipi i certifikuar",
+  "skadimi": "Skadimi",
+  "dog_breed": "Raca dhe ngjyra e qenit",
+  "dog_microchip": "Mikroçip qeni",
+  "dog_service": "Ofrohet shërbimi i qenve",
+  "test_date": "Data e testimit të aksesit publik",
+  "registration_num": "Numri i regjistrimit",
+  "handler_address": "Adresa e mbajtësit",
+  "handler_phone": "Numri i telefonit të mbajtësit"
+}

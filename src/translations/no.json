@@ -1,0 +1,16 @@
+{
+  "country": "Norway",
+  "locale": "no-NO",
+  "license": "Lisens for offentlig tilgang",
+  "handler_name": "Håndterens navn",
+  "dog_name": "Tjenestehundens navn",
+  "certified": "Sertifisert team",
+  "expiration": "Utløp",
+  "dog_breed": "Hunderase og farge",
+  "dog_microchip": "Hundemikrochip",
+  "dog_service": "Hundetjeneste levert",
+  "test_date": "Testdato for offentlig tilgang",
+  "registration_num": "Registreringsnummer",
+  "handler_address": "Behandler adresse",
+  "handler_phone": "Behandler telefonnummer"
+}

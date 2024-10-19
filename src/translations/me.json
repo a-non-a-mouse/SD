@@ -1,0 +1,16 @@
+{
+  "country": "Montenegro",
+  "locale": "hr-ME",
+  "license": "Licenca za javni pristup",
+  "handler_name": "Ime rukovatelja",
+  "dog_name": "Ime službenog psa",
+  "certified": "Certificirani tim",
+  "expiration": "Istek",
+  "dog_breed": "Pasmina i boja psa",
+  "dog_microchip": "Pseći mikročip",
+  "dog_service": "Pružena usluga pasa",
+  "test_date": "Datum testiranja javnog pristupa",
+  "registration_num": "Registracijski broj",
+  "handler_address": "Adresa rukovatelja",
+  "handler_phone": "Broj telefona rukovatelja"
+}

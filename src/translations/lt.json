@@ -1,0 +1,16 @@
+{
+  "country": "Lithuania",
+  "locale": "lt-LT",
+  "license": "Viešos prieigos licencija",
+  "handler_name": "Apdorotojo vardas",
+  "šuo_vardas": "Aptarnaujančio šuns vardas",
+  "sertifikuota": "Sertifikuota komanda",
+  "galiojimo laikas": "Galiojimo laikas",
+  "dog_breed": "Šuns veislė ir spalva",
+  "dog_microchip": "Šuns mikroschema",
+  "dog_service": "Suteikiama šunų paslauga",
+  "test_date": "Viešos prieigos bandymo data",
+  "registration_num": "Registracijos numeris",
+  "handler_address": "Apdorotojo adresas",
+  "handler_phone": "Apdorotojo telefono numeris"
+}

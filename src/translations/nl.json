@@ -1,0 +1,16 @@
+{
+  "country": "Netherlands",
+  "locale": "nl-NL",
+  "license": "Openbare toegangslicentie",
+  "handler_name": "Naam van handler",
+  "dog_name": "Naam van servicehond",
+  "certified": "Gecertificeerd team",
+  "expiration": "Vervaldatum",
+  "dog_breed": "Hondenras en kleur",
+  "dog_microchip": "Microchip van hond",
+  "dog_service": "Hondenservice verleend",
+  "test_date": "Datum openbare toegangstest",
+  "registration_num": "Registratienummer",
+  "handler_address": "Adres van handler",
+  "handler_phone": "Telefoonnummer handler"
+}

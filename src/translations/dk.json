@@ -1,0 +1,16 @@
+{
+  "country": "Denmark",
+  "locale": "da-DK",
+  "license": "Public Access License",
+  "handler_name": "Behandlers navn",
+  "dog_name": "Servicehundens navn",
+  "certified": "Certificeret team",
+  "expiration": "Udløb",
+  "dog_breed": "Hunderace og farve",
+  "dog_microchip": "Hundemikrochip",
+  "dog_service": "Hundeservice leveret",
+  "test_date": "Testdato for offentlig adgang",
+  "registration_num": "Registreringsnummer",
+  "handler_address": "Behandler adresse",
+  "handler_phone": "Behandlerens telefonnummer"
+}

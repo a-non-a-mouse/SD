@@ -1,0 +1,17 @@
+{
+  "country": "France",
+  "locale": "fr-FR",
+  "url": "https://www.canidea.fr/lois-et-r%C3%A9glementation/les-lois-et-la-r%C3%A9glementation-relatives-aux-chiens-d-assistance-et-guides-d-aveugle/",
+  "license": "Licence d'accès public",
+  "handler_name": "Nom du maître-chien",
+  "dog_name": "Nom du chien d'assistance",
+  "certified": "Équipe certifiée",
+  "expiration": "Expiration",
+  "dog_breed": "Race et couleur du chien",
+  "dog_microchip": "Puce électronique pour chien",
+  "dog_service": "Service canin fourni",
+  "test_date": "Date du test d'accès public",
+  "registration_num": "Numéro d'enregistrement",
+  "handler_address": "Adresse du maître-chien",
+  "handler_phone": "Numéro de téléphone du maître-chien"
+}

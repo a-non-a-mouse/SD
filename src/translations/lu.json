@@ -1,0 +1,16 @@
+{
+  "country": "Luxembourg",
+  "locale": "lb-LU",
+  "license": "Public Access Lizenz",
+  "handler_name": "Numm vum Handler",
+  "dog_name": "Service Hond Numm",
+  "certified": "Zertifizéiert Team",
+  "expiration": "Verfall",
+  "dog_breed": "Hënn Rass a Faarf",
+  "dog_microchip": "Hund Mikrochip",
+  "dog_service": "Hondservice geliwwert",
+  "test_date": "Public Access Test Datum",
+  "registration_num": "Registrierungsnummer",
+  "handler_address": "Handler Adress",
+  "handler_phone": "Telefonsnummer vum Handler"
+}

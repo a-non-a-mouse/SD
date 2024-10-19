@@ -1,0 +1,16 @@
+{
+  "country": "San Marino",
+  "locale": "it-SM",
+  "license": "Licenza di accesso pubblico",
+  "handler_name": "Nome del conduttore",
+  "dog_name": "Nome del cane da assistenza",
+  "certified": "Team certificato",
+  "expiration": "Scadenza",
+  "dog_breed": "Razza e colore del cane",
+  "dog_microchip": "Microchip del cane",
+  "dog_service": "Servizio fornito al cane",
+  "test_date": "Data del test di accesso pubblico",
+  "registration_num": "Numero di registrazione",
+  "handler_address": "Indirizzo del conduttore",
+  "handler_phone": "Numero di telefono del conduttore"
+}

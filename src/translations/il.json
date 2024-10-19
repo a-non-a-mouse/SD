@@ -1,0 +1,16 @@
+{
+  "country": "Israel",
+  "locale": "he-IL",
+  "license": "רישיון גישה לציבור",
+  "handler_name": "שם המטפל",
+  "dog_name": "שם כלב השירות",
+  "certified": "צוות מוסמך",
+  "expiration": "תפוגה",
+  "dog_breed": "גזע וצבע כלבים",
+  "dog_microchip": "מיקרו-שבב לכלב",
+  "dog_service": "שירות לכלבים מסופק",
+  "test_date": "תאריך בדיקה של גישה ציבורית",
+  "registration_num": "מספר רישום",
+  "handler_address": "כתובת המטפל",
+  "handler_phone": "מספר טלפון של המטפל"
+}

@@ -1,0 +1,30 @@
+#right-bar {
+  float: right;
+  width: calc(33 * var(--unit));
+  padding-right: calc(1 * var(--unit));
+}
+
+#photo {
+  width: calc(33 * var(--unit));
+  height: auto;
+}
+
+#certified {
+  background: #fff;
+  font-size: calc(3.7 * var(--unit));
+  font-weight: bold;
+  text-align: center;
+}
+
+#expiration-box {
+  border-left: calc(0.5 * var(--unit)) solid #000;
+  background: #2b92e9;
+  margin-top: calc(2 * var(--unit));
+  padding: calc(0.5 * var(--unit));
+}
+
+#expiration-box h2,
+#expiration-box h3 {
+  padding: 0;
+  margin: calc(1 * var(--unit)) calc(2 * var(--unit));
+}

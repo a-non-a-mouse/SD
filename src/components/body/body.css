@@ -1,0 +1,8 @@
+#body {
+  background: rgba(85, 165, 237, 0.7);
+  position: absolute;
+  top: calc(22 * var(--unit));
+  right: 0;
+  bottom: calc(30 * var(--unit));
+  left: 0;
+}

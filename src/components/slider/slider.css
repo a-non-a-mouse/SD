@@ -1,0 +1,36 @@
+#slider {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  white-space: nowrap;
+}
+
+.slider-content {
+  display: inline-block;
+  padding: calc(4 * var(--unit));
+  width: calc(88 * var(--unit));
+  height: 100%;
+  white-space: initial;
+  vertical-align: top;
+}
+
+#slider-page {
+  position: absolute;
+  bottom: calc(2 * var(--unit));
+  left: calc(35 * var(--unit));
+}
+
+.slider-page-num {
+  display: inline-block;
+  width: calc(5 * var(--unit));
+  height: calc(0.5 * var(--unit));
+  background-color: #000;
+  margin: calc(0.5 * var(--unit));
+  opacity: 0.3;
+}
+
+.slider-page-num.active {
+  opacity: 1;
+}

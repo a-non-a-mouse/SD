@@ -1,0 +1,29 @@
+.App {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #2b93e9;
+  margin: calc(2 * var(--unit));
+  border-radius: calc(2 * var(--unit));
+  box-shadow: calc(-1 * var(--unit)) calc(1 * var(--unit)) calc(1 * var(--unit))
+    rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  border: calc(0.2 * var(--unit)) solid #fff;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}

@@ -1,0 +1,16 @@
+{
+  "country": "Slovenia",
+  "locale": "sl-SL",
+  "license": "Licenca za javni dostop",
+  "handler_name": "Ime upravljavca",
+  "dog_name": "Ime službenega psa",
+  "certified": "Certificirana ekipa",
+  "expiration": "Potek",
+  "dog_breed": "Pasma in barva psov",
+  "dog_microchip": "Pasji mikročip",
+  "dog_service": "Zagotovljena storitev za pse",
+  "test_date": "Datum preizkusa javnega dostopa",
+  "registration_num": "Registracijska številka",
+  "handler_address": "Naslov upravljavca",
+  "handler_phone": "Telefonska številka upravljavca"
+}
